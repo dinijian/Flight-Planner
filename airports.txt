@@ -1,0 +1,27 @@
+Sri Guru Ram Dass Jee International Airport 0
+Indira Gandhi International Airport 1
+Safdarjung Airport 2
+Diu Airport 3
+Daman Airport 4
+Swami Vivekananda Airport 5
+OP Jindal Airport 6
+Raigarh Airport 7
+Kadapa Airport 8
+Kuppam Airport 9
+Kurnool Airport 10
+Nellore Airport 11
+Sri Sathya Sai Airport 12
+Rajahmundry Airport 13
+Vijayawada Airport 14
+Visakhapatnam International Airport 15
+Ziro Airport16
+Pasighat Airport 17
+Dibrugarh Airport 18
+Rupsi Airport19
+Chabua Air Force Station 20
+Bhagalpur Airport 21
+Munger Airport 22
+Jay Prakash Narayan International Airport 23
+Purnea Airport24
+Muzaffarpur Airport 25
+Chandigarh Airport 26
